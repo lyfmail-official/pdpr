@@ -137,10 +137,15 @@ PDPR welcomes:
 - Educators.  
 
 Please read:
-
+``` 
 docs/governance.md
+```
+``` 
 docs/ethics-policy.md
+```
+
 docs/methodology.md
+```
 
 
 before contributing.
@@ -155,33 +160,16 @@ It does **not accuse, shame, or legally evaluate companies**.
 
 All detection is:
 
-- Probabilistic  
-- Non-accusatory  
-- Scientifically framed  
+- Probabilistic . 
+- Non-accusatory.  
+- Scientifically framed.  
 
 See:
-
-
-before contributing.
-
----
-
-## ⚖ Legal & Safety Notice
-
-PDPR provides **educational information only**.
-
-It does **not accuse, shame, or legally evaluate companies**.
-
-All detection is:
-
-- Probabilistic  
-- Non-accusatory  
-- Scientifically framed  
-
-See:
-
+```
 docs/legal-safety.md
+``` 
 
+Before contributing.
 
 ---
 
@@ -193,8 +181,8 @@ docs/legal-safety.md
 
 ## 📜 License
 
-Open-source — community governed  
-(License selection pending ethical governance ratification)
+Open-source — community governed.  
+(License selection pending ethical governance ratification).
 
 ---
 
