@@ -137,15 +137,21 @@ PDPR welcomes:
 - Educators.  
 
 Please read:
+  
 ``` 
 docs/governance.md
+
 ```
+
 ``` 
 docs/ethics-policy.md
 ```
 
+```
+
 docs/methodology.md
 ```
+
 
 
 before contributing.
