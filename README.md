@@ -113,14 +113,14 @@ Ethical governance is enforced through:
 
 ## 📦 Project Structure
 
-...
+``` 
 pdpr/
 ├── public/
 ├── api/
 ├── detection/
 ├── docs/
 └── README.md
-...
+``` 
 
 ---
 
