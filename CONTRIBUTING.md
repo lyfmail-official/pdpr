@@ -175,15 +175,15 @@ research/* → academic & research content.
 
 ## 🔁 Pull Request Workflow
 
-1. Fork repository  
-2. Create feature branch  
-3. Make your changes  
-4. Run local tests  
-5. Submit pull request  
+1. Fork repository.  
+2. Create feature branch.  
+3. Make your changes.  
+4. Run local tests.  
+5. Submit pull request.  
 6. Explain:
-   - Purpose
-   - Impact
-   - Ethical considerations  
+   - Purpose.
+   - Impact.
+   - Ethical considerations.  
 
 ---
 
@@ -191,10 +191,10 @@ research/* → academic & research content.
 
 All major contributions undergo:
 
-- Ethical review  
-- Safety analysis  
-- Bias assessment  
-- Abuse potential review  
+- Ethical review.  
+- Safety analysis.  
+- Bias assessment.  
+- Abuse potential review.  
 
 This ensures PDPR cannot be misused.
 
@@ -204,9 +204,9 @@ This ensures PDPR cannot be misused.
 
 PDPR is governed under:
 
-- Open governance
-- Transparent moderation
-- Ethical constitution
+- Open governance.
+- Transparent moderation.
+- Ethical constitution.
 
 See:
 
@@ -214,15 +214,15 @@ See:
 
 ## 🔁 Pull Request Workflow
 
-1. Fork repository  
-2. Create feature branch  
-3. Make your changes  
-4. Run local tests  
-5. Submit pull request  
+1. Fork repository.  
+2. Create feature branch.  
+3. Make your changes.  
+4. Run local tests.  
+5. Submit pull request.  
 6. Explain:
-   - Purpose
-   - Impact
-   - Ethical considerations  
+   - Purpose.
+   - Impact.
+   - Ethical considerations.  
 
 ---
 
@@ -230,10 +230,10 @@ See:
 
 All major contributions undergo:
 
-- Ethical review  
-- Safety analysis  
-- Bias assessment  
-- Abuse potential review  
+- Ethical review.  
+- Safety analysis.  
+- Bias assessment.  
+- Abuse potential review.  
 
 This ensures PDPR cannot be misused.
 
@@ -243,9 +243,9 @@ This ensures PDPR cannot be misused.
 
 PDPR is governed under:
 
-- Open governance
-- Transparent moderation
-- Ethical constitution
+- Open governance.
+- Transparent moderation.
+- Ethical constitution.
 
 See:
 
@@ -279,7 +279,7 @@ Zero tolerance for:
 - Harassment
 - Hate
 - Discrimination
-- Toxic behavior
+- Toxic Behavior
 
 ---
 
