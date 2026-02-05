@@ -160,3 +160,142 @@ Detection must be:
 
 ## 🗂 Branching Strategy
 
+main → stable production.
+
+develop → staging integration.
+
+feature/* → new features.
+
+docs/* → documentation updates.
+
+research/* → academic & research content.
+
+
+---
+
+## 🔁 Pull Request Workflow
+
+1. Fork repository  
+2. Create feature branch  
+3. Make your changes  
+4. Run local tests  
+5. Submit pull request  
+6. Explain:
+   - Purpose
+   - Impact
+   - Ethical considerations  
+
+---
+
+## ⚖ Ethical Review Process
+
+All major contributions undergo:
+
+- Ethical review  
+- Safety analysis  
+- Bias assessment  
+- Abuse potential review  
+
+This ensures PDPR cannot be misused.
+
+---
+
+## 🏛 Governance Model
+
+PDPR is governed under:
+
+- Open governance
+- Transparent moderation
+- Ethical constitution
+
+See:
+
+---
+
+## 🔁 Pull Request Workflow
+
+1. Fork repository  
+2. Create feature branch  
+3. Make your changes  
+4. Run local tests  
+5. Submit pull request  
+6. Explain:
+   - Purpose
+   - Impact
+   - Ethical considerations  
+
+---
+
+## ⚖ Ethical Review Process
+
+All major contributions undergo:
+
+- Ethical review  
+- Safety analysis  
+- Bias assessment  
+- Abuse potential review  
+
+This ensures PDPR cannot be misused.
+
+---
+
+## 🏛 Governance Model
+
+PDPR is governed under:
+
+- Open governance
+- Transparent moderation
+- Ethical constitution
+
+See:
+
+docs/governance.md
+
+docs/ethics-policy.md
+
+
+---
+
+## 🛡 Legal Safety
+
+PDPR does **not provide legal judgment**.
+
+All contributions must follow:
+
+docs/legal-safety.md
+
+
+---
+
+## 📜 Code of Conduct
+
+All contributors must follow:
+
+CODE_OF_CONDUCT.md
+
+
+Zero tolerance for:
+
+- Harassment
+- Hate
+- Discrimination
+- Toxic behavior
+
+---
+
+## 📬 Contact
+
+For questions, proposals, or ethical clarifications:
+
+**pdpr@lyfmail.com**
+
+---
+
+## 🌱 Final Note
+
+If you're here, you're helping build something rare:
+
+> A public digital safety infrastructure.
+
+Thank you for contributing responsibly. 💙
+
