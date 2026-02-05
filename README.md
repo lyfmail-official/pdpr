@@ -140,7 +140,6 @@ Please read:
   
 ``` 
 docs/governance.md
-
 ```
 
 ``` 
@@ -148,15 +147,11 @@ docs/ethics-policy.md
 ```
 
 ```
-
 docs/methodology.md
 ```
 
-
-
 before contributing.
 
----
 
 ## ⚖ Legal & Safety Notice
 
@@ -170,32 +165,29 @@ All detection is:
 - Non-accusatory.  
 - Scientifically framed.  
 
-See:
+See: 
+
 ```
 docs/legal-safety.md
+
 ``` 
 
 Before contributing.
 
----
 
 ## 🛡 Mission Statement
 
 > To build the world’s first public digital immune system against manipulation.
-
----
 
 ## 📜 License
 
 Open-source — community governed.  
 (License selection pending ethical governance ratification).
 
----
 
 ## 📬 Contact
 
 **pdpr@lyfmail.com**
 
----
 
 
