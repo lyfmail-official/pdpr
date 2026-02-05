@@ -113,3 +113,95 @@ Ethical governance is enforced through:
 
 ## 📦 Project Structure
 
+...
+pdpr/
+├── public/
+├── api/
+├── detection/
+├── docs/
+└── README.md
+...
+
+---
+
+## 🤝 Contributing
+
+PDPR welcomes:
+
+- UX designers.  
+- Developers.  
+- Psychologists.  
+- Researchers.  
+- Digital rights activists.  
+- Students.  
+- Educators.  
+
+Please read:
+
+docs/governance.md
+docs/ethics-policy.md
+docs/methodology.md
+
+
+before contributing.
+
+---
+
+## ⚖ Legal & Safety Notice
+
+PDPR provides **educational information only**.
+
+It does **not accuse, shame, or legally evaluate companies**.
+
+All detection is:
+
+- Probabilistic  
+- Non-accusatory  
+- Scientifically framed  
+
+See:
+
+
+before contributing.
+
+---
+
+## ⚖ Legal & Safety Notice
+
+PDPR provides **educational information only**.
+
+It does **not accuse, shame, or legally evaluate companies**.
+
+All detection is:
+
+- Probabilistic  
+- Non-accusatory  
+- Scientifically framed  
+
+See:
+
+docs/legal-safety.md
+
+
+---
+
+## 🛡 Mission Statement
+
+> To build the world’s first public digital immune system against manipulation.
+
+---
+
+## 📜 License
+
+Open-source — community governed  
+(License selection pending ethical governance ratification)
+
+---
+
+## 📬 Contact
+
+**pdpr@lyfmail.com**
+
+---
+
+
