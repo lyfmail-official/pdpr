@@ -189,5 +189,6 @@ Open-source — community governed.
 
 **pdpr@lyfmail.com**
 
-
+**Maintained by [LYF Mail](https://github.com/lyfmail-official)** · 
+Founded by [Ajay Kumar Chaudhary](https://github.com/lyfmail) 
 
