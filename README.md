@@ -1,6 +1,3 @@
-Here is the complete SEO-optimized README.md for your PDPR repository. Copy everything inside the code block below and paste it directly into `github.com/lyfmail-official/pdpr/README.md`.
-
-```markdown
 # PDPR — Public Dark Pattern Registry & Ethical UX Detection Tool
 
 **Expose, document, and neutralize manipulative user-interface practices. A free, open-source dark pattern detection platform for consumer protection and digital rights awareness.**
