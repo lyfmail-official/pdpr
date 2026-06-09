@@ -398,4 +398,3 @@ A: Commercial tools often focus on legal compliance, corporate auditing, or sell
 ---
 
 *This README is maintained by the LYF Mail team. For issues, feature requests, pattern submissions, or contributions, please visit our [GitHub repository](https://github.com/lyfmail-official/pdpr).*
-```
