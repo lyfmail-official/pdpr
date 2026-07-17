@@ -341,10 +341,10 @@ All documentation and detection methodologies are openly published for public be
 - **📱 PWA:** [app.lyfmail.com](https://app.lyfmail.com)
 - **📚 Documentation:** [docs.lyfmail.com](https://docs.lyfmail.com)
 - **🎨 Brand Assets:** [github.com/lyfmail-official/lyfmail-brand-assets](https://github.com/lyfmail-official/lyfmail-brand-assets)
-- **🐦 X / Twitter:** [@lyfmailcom](https://x.com/lyfmailcom)
-- **📘 Facebook:** [thelyfmail](https://www.facebook.com/thelyfmail)
+- **🐦 X / Twitter:** [LYF Mail](https://x.com/lyfmailcom)
+- **📘 Facebook:** [LYF Mail](https://www.facebook.com/thelyfmail)
 - **▶️ YouTube:** [LYF Mail](https://m.youtube.com/channel/UCurymhWrl2nkvv31uJMuc0g)
-- **💼 LinkedIn:** [lyfmailcom](https://in.linkedin.com/in/lyfmailcom)
+- **💼 LinkedIn:** [LYF Mail](https://www.linkedin.com/company/lyf-mail)
 - **📧 PDPR Email:** pdpr@lyfmail.com
 - **📧 General Email:** contact@lyfmail.com
 - **🆘 Support:** [support.lyfmail.com](https://support.lyfmail.com)
